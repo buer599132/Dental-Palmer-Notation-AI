@@ -1,0 +1,5 @@
+{
+  "name": "Dental Palmer Notation AI",
+  "description": "A specialized AI tool for identifying dental positions based on Palmer Notation images, recognizing numbers and quadrant borders.",
+  "requestFramePermissions": []
+}
